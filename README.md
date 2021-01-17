@@ -14,4 +14,4 @@ what next for Intelligent-gym
 ## What's next for Intelligent gymn  
 We have almost made a complete solution for reopening of gym and accidents detection but further a yoga pose detector for accurate pose detection and gym workouts detector for preventing any wrong exercise can be added for accurate measurement of there poses and preventing any injury to the people can be added .
 
-![Alt text](relative/path/to/img.jpg?raw=true "Title")
+![Alt text](‪C:\Users\kus\Desktop\img1 - Copy (3).png"Title")
